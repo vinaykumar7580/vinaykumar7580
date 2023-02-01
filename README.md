@@ -10,6 +10,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **vinayhatwar16@gmail.com**
+- Portfolio link :- <a href="https://vinaykumar7580.github.io/" target="blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

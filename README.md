@@ -1,3 +1,4 @@
+<img src="https://camo.githubusercontent.com/ee4a410e4eee067120236fd601635a35886bf470ba967bf8c82823caa8d6e7aa/68747470733a2f2f63646e2d696d616765732e7a6574792e636f6d2f70616765732f686f775f746f5f77726974655f7765625f646576656c6f7065725f726573756d652e6a7067" alt="laptop"/>
 <h1 align="center">Hi 👋, I'm Vinaykumar Hatwar</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 

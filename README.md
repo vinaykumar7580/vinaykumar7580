@@ -1,4 +1,4 @@
-<img src="https://wallpapercave.com/wp/wp11346434.jpg" alt="laptop"/>
+<img src="https://as2.ftcdn.net/v2/jpg/04/27/62/45/1000_F_427624559_npSKNHF0xE2a8BO84zBcnryRpU8WjlHN.jpg" alt="laptop"/>
 <h1 align="center">Hi 👋, I'm Vinaykumar Hatwar</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 

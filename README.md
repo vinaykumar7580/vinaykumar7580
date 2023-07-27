@@ -1,4 +1,4 @@
-<img src="https://as2.ftcdn.net/v2/jpg/04/27/62/45/1000_F_427624559_npSKNHF0xE2a8BO84zBcnryRpU8WjlHN.jpg" alt="laptop"/>
+<img src="https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-898.jpg?w=996" alt="laptop"/>
 <h1 align="center">Hi 👋, I'm Vinaykumar Hatwar</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 

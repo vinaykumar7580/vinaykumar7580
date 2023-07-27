@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg?w=996&t=st=1687260268~exp=1687260868~hmac=f8183ae00b54e5b6a740771cbdf11826cfda79b649d631de8c86a328f26ad94d" alt="laptop"/>
+<img src="https://wallpapercave.com/wp/wp11346434.jpg" alt="laptop"/>
 <h1 align="center">Hi 👋, I'm Vinaykumar Hatwar</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
